@@ -1,2 +1,2 @@
 # New Projects
-This Project was Crated form local system.
+This project was Crated form local system.
